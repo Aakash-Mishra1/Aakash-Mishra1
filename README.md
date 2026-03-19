@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Mishra</h1>
+<h1 align="center">Hi 👋, I'm Aakash <span style="color: #0070f3;">Mishra</span></h1>
 <h3 align="center">Full Stack Website Developer | MERN | Laravel | API Integrations</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
       <p>✨ <i>"Simplifying complexity through code; crafting joy through experience."</i></p>
     </td>
     <td width="45%" align="right" valign="top">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--project-man-woman-coding-development-pack-business-illustrations-4841029.png" width="100%" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5L6qcR4vC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
