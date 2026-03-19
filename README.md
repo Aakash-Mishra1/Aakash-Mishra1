@@ -3,12 +3,29 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 🔥 Passionate **Full Stack Web Developer**
-- 🌱 Currently learning **Advanced MERN, Laravel & DevOps**
-- 🧩 I love solving complex problems & building production-ready **websites**
-- 🔗 LinkedIn → https://www.linkedin.com/in/aakash-mishra1/
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Full-Stack Developer</h3>
+      <p>I am a passionate <b>Full-Stack Developer</b> focused on building <b>scalable, secure, and user-centric</b> web applications.</p>
+      <ul>
+        <li>🔹 Strong interest in <b>Backend Development (MERN & Laravel)</b></li>
+        <li>🔹 Love building <b>REST APIs & Databases</b></li>
+        <li>🔹 Learning through <b>real-world projects</b></li>
+        <li>🔹 Exploring <b>DevOps & System Architecture</b></li>
+      </ul>
+      <br>
+      <p align="left">
+        💡 <i>"Code is not just syntax, it's problem-solving made executable."</i>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5L6qcR4vC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,7 +49,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakash-Mishra1&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Mishra1&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -55,8 +71,8 @@
 ---
 
 ## 🌐 Social  
-- LinkedIn: **https://www.linkedin.com/in/aakash-mishra1/**  
-- GitHub: **https://github.com/Aakash-Mishra1**  
+- 🔗 **LinkedIn:** [aakash-mishra1](https://www.linkedin.com/in/aakash-mishra1/)  
+- 🐙 **GitHub:** [Aakash-Mishra1](https://github.com/Aakash-Mishra1)  
 
 ---
 
