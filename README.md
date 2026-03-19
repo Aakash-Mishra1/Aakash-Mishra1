@@ -16,23 +16,8 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-  <br/>
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express" />
-  <br/>
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,laravel,mongodb,mysql,git,github,vercel,netlify,figma" />
 </p>
-
----
 
 ## 📊 GitHub Activity Graph  
 
