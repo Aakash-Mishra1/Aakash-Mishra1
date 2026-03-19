@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-<table>
+<table border="0">
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 Full-Stack Developer</h3>
@@ -18,11 +18,13 @@
       </ul>
       <br>
       <p align="left">
-        💡 <i>"Code is not just syntax, it's problem-solving made executable."</i>
+        ✨ <b><i>"Simplifying complexity through code; crafting joy through experience."</i></b>
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5L6qcR4vC/giphy.gif" width="100%" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Mishra1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
