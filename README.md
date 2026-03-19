@@ -1,14 +1,13 @@
-<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Aakash Mishra</h1>
-<h3 align="center">Full Stack Developer | MERN | Laravel | API Integrations</h3>
+<h3 align="center">Full Stack Website Developer | MERN | Laravel | API Integrations</h3>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔥 Passionate **Full Stack Developer**  
-- 🌱 Currently learning **Advanced MERN, Laravel & DevOps**  
-- 🧩 I love solving complex problems & building production-ready apps  
+- 🔥 Passionate **Full Stack Web Developer**
+- 🌱 Currently learning **Advanced MERN, Laravel & DevOps**
+- 🧩 I love solving complex problems & building production-ready **websites**
 - 🔗 LinkedIn → https://www.linkedin.com/in/aakash-mishra1/
 
 ---
@@ -18,6 +17,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,laravel,mongodb,mysql,git,github,vercel,netlify,figma" />
 </p>
+
+---
 
 ## 📊 GitHub Activity Graph  
 
@@ -59,4 +60,4 @@
 
 ---
 
-⭐ **Thanks for visiting!**  
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
