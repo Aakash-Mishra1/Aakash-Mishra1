@@ -11,11 +11,12 @@
 
 ## 🚀 About Me
 
-<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #ffffff; width: 100%;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top" style="border: 1px solid #444;">
-      <h3>👨‍💻 Full-Stack Developer</h3>
+    <td width="55%" valign="top">
+      <br>
       <p>I am a passionate <b>Full-Stack Developer</b> focused on building <b>scalable, secure, and user-centric</b> web applications.</p>
+      <br>
       <ul>
         <li>🔹 Strong interest in <b>Backend Development (MERN & Laravel)</b></li>
         <li>🔹 Love building <b>REST APIs & Databases</b></li>
@@ -23,14 +24,10 @@
         <li>🔹 Exploring <b>DevOps & System Architecture</b></li>
       </ul>
       <br>
-      <p align="left">
-        ✨ <b><i>"Simplifying complexity through code; crafting joy through experience."</i></b>
-      </p>
+      <p>✨ <i>"Simplifying complexity through code; crafting joy through experience."</i></p>
     </td>
-    <td width="40%" align="center" valign="middle" style="border: 1px solid #444;">
-      <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="100%" alt="Coding Boy" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Mishra1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    <td width="45%" align="right" valign="top">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--project-man-woman-coding-development-pack-business-illustrations-4841029.png" width="100%" />
     </td>
   </tr>
 </table>
@@ -44,7 +41,7 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,laravel,mongodb,mysql,git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,laravel,mongodb,mysql,git,github,vercel,netlify,figma&theme=dark" />
 </p>
 
 <br>
@@ -56,7 +53,7 @@
 ## 📊 GitHub Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-Mishra1&theme=ocean&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-Mishra1&theme=react-dark&bg_color=0D1117&hide_border=true&color=0070f3" width="100%" />
 </p>
 
 <br>
@@ -68,29 +65,12 @@
 ## 🔥 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakash-Mishra1&show_icons=true&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=0070f3" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Mishra1&theme=tokyonight&hide_border=true&stroke=0070f3&ring=0070f3&fire=0070f3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aakash-Mishra1&show_icons=true&theme=dark&bg_color=0D1117&hide_border=false&title_color=0070f3&icon_color=0070f3&text_color=ffffff&border_color=ffffff" />
+  
+  <br><br>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Mishra1&layout=compact&theme=dark&bg_color=0D1117&hide_border=false&title_color=0070f3&text_color=ffffff&border_color=ffffff" />
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=2&section=header" width="100%" />
-</p>
-
-## 🚀 Featured Projects  
-
-### 🍔 Food Delivery Web App (MERN + Admin Panel)  
-✔ Online ordering  
-✔ Cart + Product management  
-✔ JWT Authentication  
-✔ Fully responsive  
-
-### 🛒 E-Commerce Platform (Full-Stack)  
-✔ Product browsing  
-✔ Admin Dashboard  
-✔ Secure Auth  
-✔ Fast APIs  
 
 <br>
 
